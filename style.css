@@ -1,0 +1,28 @@
+body{
+    background-image: url("doodle_image.jpg");
+    background-size: cover;
+}
+.heading{
+    font-size: 25px;
+    color: aqua;
+    margin: 0;
+    box-shadow: 5px 5px 5px dimgrey;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    background-color: darkcyan;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 3px whitesmoke solid;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px dimgrey;
+}
